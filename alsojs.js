@@ -7,5 +7,3 @@ http.createServer(function (request, response) {
            response.end("Content is visible");          
 
 }).listen(8080);
-
-console.log('Server Running');
